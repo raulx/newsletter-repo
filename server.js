@@ -57,8 +57,4 @@ app.listen(process.env.PORT || 3000,()=>{
     console.log("Server is listening at port 3000.")
 })
 
-// mailChimpApiKey;
-// e79de50dab04f9eaf50290827ab15f0d-us6
 
-// Audience Id 
-// abd99755b0
